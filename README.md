@@ -23,11 +23,9 @@ Este jogo foi criado por mim e mais dois colegas durante a **Bird Game Jam**, um
 
 ---
 
-## Tecnologias utilizadas
+## Tecnologia utilizada
 
 - [Construct 2]
-- HTML5  
-- JavaScript  
 
 ---
 
