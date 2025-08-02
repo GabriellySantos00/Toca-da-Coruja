@@ -5,8 +5,6 @@
 
 Este jogo foi criado por mim e mais dois colegas durante a **Bird Game Jam**, um evento com duração de 48 horas para desenvolver um jogo inspirado em **pássaros brasileiros**.
 
-**Desenvolvido com:** *Construct 2*
-
 🔗 [**Página do projeto na Bird Game Jam**](https://birdgamejam.itch.io/a-toca-da-coruja)
 
 ---
@@ -23,7 +21,7 @@ Este jogo foi criado por mim e mais dois colegas durante a **Bird Game Jam**, um
 
 ---
 
-## Tecnologia utilizada
+## Desenvolvido com:
 
 - [Construct 2]
 
