@@ -1,6 +1,6 @@
 # 🦉 Toca da Coruja
 <p align="center">
-  <img src="toca_da_coruja - Trim.gif">
+  <img src="toca_da_coruja - Trim.gif" width="400">
 </p>
 
 Este jogo foi criado por mim e mais dois colegas durante a **Bird Game Jam**, um evento com duração de 48 horas para desenvolver um jogo inspirado em **pássaros brasileiros**.
