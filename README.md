@@ -29,6 +29,6 @@ Este jogo foi criado por mim e mais dois colegas durante a **Bird Game Jam**, um
 
 ##  Sobre o Design
 
-O jogo tem uma estética **misteriosa e natural**, inspirada em florestas e no comportamento corujas. A escolha das cores, sons e ambientação foi pensada para criar uma experiência imersiva para o jogador.  
+O jogo tem uma estética **misteriosa e natural**, inspirada em florestas e no comportamento de corujas. A escolha das cores, sons e ambientação foi pensada para criar uma experiência imersiva para o jogador.  
 
 
